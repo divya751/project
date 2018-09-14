@@ -21,3 +21,4 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 # divya_project
+Added build job in Jenkin.
